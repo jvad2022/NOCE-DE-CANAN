@@ -236,9 +236,9 @@ console.log(location.pathname);
 console.log(location.search);
 // location.replace("http://lequipe.fr");
 
-// window.onload = () => {
-//   location.href = "http://twitter.fr";
-// };
+window.onload = () => {
+  location.href = "https://jvad2022.github.io/kabore-/";
+};
 
 // Navigator
 console.log(navigator.userAgent);
